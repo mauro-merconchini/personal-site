@@ -1,6 +1,5 @@
 {
     "require": {
-        "tightenco/jigsaw": "^1.7",
-        // "jigsaw-tailwindcss/jigsaw-tailwindcss": "*"
+        "tightenco/jigsaw": "^1.7"
     }
 }
