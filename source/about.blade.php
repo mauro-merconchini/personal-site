@@ -32,7 +32,7 @@
             <h2 class="text-xl font-semibold mb-4">Featured Project</h2>
             {{-- <h3 href="https://www.gametally.io" class="text-lg font-semibold mb-2">GameTally</h3> --}}
             <a href="https://gametally.io/" class="text-lg font-semibold mb-2 hover:underline">GameTally</a>
-            <p class="text-gray-200 mb-4">I felt the need to create a basic web application to keep track of my growing backlog of games to play. Other previously-existing solutions felt bloated, with too many integrations of stat-tracking and social features that didn't appeal to me. I decided to create my own, much more simplified solution, and used the development of this application as an excuse to learn how to work with the Laravel framework for PHP.</p>
+            <p class="text-gray-200 mb-4">I felt the need to create a basic web application to keep track of my growing backlog of games to play. Other previously-existing solutions felt bloated, with too many integrations of stat-tracking and social features that didn't appeal to me. I decided to create my own, much more simplified solution, and used the development of this application as an excuse to continue practicing my skills with the Laravel framework for PHP.</p>
             <img src="/assets/images/screenshot_feature_2.png" alt="App screenshot" class="rounded-md shadow-lg ring-2 ring-gray-900/10">
         </div>
     </div>
