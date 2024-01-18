@@ -9,7 +9,7 @@
                 <p class="lg:text-lg lg:tracking-wide lg:leading-loose text-white pt-4">Always challenging myself to solve new, complex problems, as well as build robust, maintainable solutions. Most of all, I enjoy creating useful things!</p>
                 <div class="mt-5 flex flex-col gap-5 justify-center md:flex-row">
                     <a class="bg-white border border-white rounded-2xl md:mx-0 mx-auto w-40 px-3 py-3 hover:bg-gray-300" href="/about">More about me</a>
-                    <a class="bg-white border border-white rounded-2xl md:mx-0 mx-auto w-40 px-3 py-3 hover:bg-gray-300" href="/assets/Mauro Merconchini - Resume.pdf" download >Download Resume</a>
+                    <a class="bg-white border border-white rounded-2xl md:mx-0 mx-auto w-40 px-3 py-3 hover:bg-gray-300" href="/assets/Resume - Mauro Merconchini.pdf" download >Download Resume</a>
                 </div>
             </div>
 
