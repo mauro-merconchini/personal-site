@@ -14,6 +14,7 @@
                 <div class="bg-white text-black px-4 py-2 rounded-full">Python</div>
                 <div class="bg-white text-black px-4 py-2 rounded-full">PHP</div>
                 <div class="bg-white text-black px-4 py-2 rounded-full">Laravel</div>
+                <div class="bg-white text-black px-4 py-2 rounded-full">JavaScript</div>
             </div>
         </div>
 
