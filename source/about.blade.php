@@ -10,6 +10,8 @@
             <h2 class="text-xl font-semibold mb-4">Languages and Frameworks</h2>
             <div class="flex flex-wrap gap-2">
                 <div class="bg-white text-black px-4 py-2 rounded-full">C#</div>
+                <div class="bg-white text-black px-4 py-2 rounded-full">.NET Framework</div>
+                <div class="bg-white text-black px-4 py-2 rounded-full">ASP.NET</div>
                 <div class="bg-white text-black px-4 py-2 rounded-full">Java</div>
                 <div class="bg-white text-black px-4 py-2 rounded-full">Python</div>
                 <div class="bg-white text-black px-4 py-2 rounded-full">PHP</div>
@@ -21,9 +23,11 @@
         <div class="mt-8">
             <h2 class="text-xl font-semibold mb-4">Other Technologies</h2>
             <div class="flex flex-wrap gap-2">
-                <div class="bg-white text-black px-4 py-2 rounded-full">Tailwind CSS</div>
                 <div class="bg-white text-black px-4 py-2 rounded-full">Docker</div>
                 <div class="bg-white text-black px-4 py-2 rounded-full">MySQL</div>
+                <div class="bg-white text-black px-4 py-2 rounded-full">SQL</div>
+                <div class="bg-white text-black px-4 py-2 rounded-full">Tailwind CSS</div>
+                <div class="bg-white text-black px-4 py-2 rounded-full">Bootstrap</div>
             </div>
         </div>
     
